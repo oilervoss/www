@@ -1,11 +1,10 @@
-### Release
+### Markdown shortcuts for Github 
 
-```
-[TEXT](../../releases/download/3.2.0/FILE.ZIP)
-```
+#### Release
 
-### Image repository
+```[TEXT](../../releases/download/3.2.0/FILE.ZIP)```
 
-```
-![ALTERNATIVE](../../../www/raw/master/watchmaker/PICTURE.jpg "TITLE")
-```
+
+#### Image repository
+
+```![ALTERNATIVE](../../../www/raw/master/watchmaker/PICTURE.jpg "TITLE")```
